@@ -1,0 +1,46 @@
+breakpoint start1
+breakpoint start2
+breakpoint 1
+breakpoint 6
+Content : In the first example, the string will have a null character automatically appended to the end by the breakpoint 4
+breakpoint 5
+breakpoint 1
+breakpoint 6
+Content : compiler; by convention, library functions expect strings to be terminated by a null character.			Thbreakpoint 2
+breakpoint 1
+breakpoint 6
+Content : e latter declaration indicates individual elements, and as such the null terminator needs to be addedbreakpoint 4
+breakpoint 5
+breakpoint 1
+breakpoint 6
+Content : added manually.
+breakpoint 2
+breakpoint 1
+breakpoint 6
+Content : 
+breakpoint 2
+breakpoint 1
+breakpoint 6
+Content : Strings do not always have to be linked to an explicit variable. As you have seen already, a string obreakpoint 4
+breakpoint 5
+breakpoint 1
+breakpoint 6
+Content : of characters can be created directly as an unnamed string that is used directly (as with the printfbreakpoint 2
+breakpoint 1
+breakpoint 6
+Content : functions.)
+breakpoint 2
+breakpoint 1
+breakpoint 6
+Content : 
+breakpoint 2
+breakpoint 1
+breakpoint 6
+Content : To create an extra long string, you will have to split the string into multiple sections, by closing breakpoint 4
+breakpoint 5
+breakpoint 1
+breakpoint 6
+Content : the first section with a quote, and recommencing the string on the next line (also starting and endibreakpoint 2
+breakpoint 1
+breakpoint 6
+Content : ng in a quote):breakpoint 2
